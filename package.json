@@ -16,7 +16,7 @@
   "repository": "github:serchtul/tree-app-backend",
   "dependencies": {
     "@hapi/hapi": "19.1.1",
-    "firebase-admin": "^9.0.0",
+    "firebase-admin": "^11.5.0",
     "uuid": "^8.2.0"
   },
   "devDependencies": {
